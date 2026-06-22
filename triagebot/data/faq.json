@@ -1,0 +1,42 @@
+[
+  {
+    "id": "faq-001",
+    "question": "What fees does NimbusPay charge?",
+    "answer": "NimbusPay charges a flat 1.5% fee on each transaction, with a minimum of $0.30. There are no monthly account fees and no fees for receiving money from other NimbusPay users."
+  },
+  {
+    "id": "faq-002",
+    "question": "Why was I charged a $2 fee?",
+    "answer": "A $2 fee is our standard instant-transfer fee. It applies when you move money to your linked bank account instantly instead of using the free 1-3 business day standard transfer. You can avoid it by choosing the standard transfer option."
+  },
+  {
+    "id": "faq-003",
+    "question": "How do refunds work?",
+    "answer": "Refunds for purchases under $50 are auto-eligible and processed instantly back to your original payment method. Refunds of $50 or more require manual review and are escalated to a support specialist. Most refunds settle within 3-5 business days."
+  },
+  {
+    "id": "faq-004",
+    "question": "How do I reset my password?",
+    "answer": "Go to the NimbusPay login screen and tap 'Forgot password'. Enter your registered email and we'll send a secure reset link that is valid for 30 minutes. If you don't receive it, check your spam folder or contact support."
+  },
+  {
+    "id": "faq-005",
+    "question": "How long do transfers take?",
+    "answer": "Standard transfers to a linked bank account take 1-3 business days and are free. Instant transfers arrive within minutes and carry a $2 fee. Transfers between NimbusPay users are instant and free."
+  },
+  {
+    "id": "faq-006",
+    "question": "Is NimbusPay secure?",
+    "answer": "Yes. NimbusPay uses bank-grade 256-bit encryption, two-factor authentication, and continuous fraud monitoring. We never store your full card number on your device. Enable 2FA in Settings for extra protection."
+  },
+  {
+    "id": "faq-007",
+    "question": "How do I close my account?",
+    "answer": "To close your account, withdraw any remaining balance, then go to Settings > Account > Close Account. Closure is permanent and takes effect after any pending transactions clear. You can reopen by contacting support within 30 days."
+  },
+  {
+    "id": "faq-008",
+    "question": "What is the daily transaction limit?",
+    "answer": "New accounts have a daily limit of $1,000. After identity verification, the limit rises to $5,000 per day. Business accounts can request higher limits through support."
+  }
+]

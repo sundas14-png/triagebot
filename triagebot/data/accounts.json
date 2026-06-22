@@ -1,0 +1,54 @@
+[
+  {
+    "account_id": "4821",
+    "name": "Ava Thompson",
+    "email": "ava.t@example.com",
+    "balance": 134.75,
+    "currency": "USD",
+    "status": "active",
+    "last_transaction": {
+      "date": "2026-06-20",
+      "description": "Coffee Roasters Co.",
+      "amount": -4.50
+    }
+  },
+  {
+    "account_id": "5390",
+    "name": "Liam Carter",
+    "email": "liam.c@example.com",
+    "balance": 2890.10,
+    "currency": "USD",
+    "status": "active",
+    "last_transaction": {
+      "date": "2026-06-22",
+      "description": "Instant transfer to bank",
+      "amount": -500.00
+    }
+  },
+  {
+    "account_id": "6017",
+    "name": "Sofia Nguyen",
+    "email": "sofia.n@example.com",
+    "balance": 12.40,
+    "currency": "USD",
+    "status": "active",
+    "last_transaction": {
+      "date": "2026-06-19",
+      "description": "Refund - Bookstore",
+      "amount": 23.99
+    }
+  },
+  {
+    "account_id": "7204",
+    "name": "Noah Patel",
+    "email": "noah.p@example.com",
+    "balance": 0.00,
+    "currency": "USD",
+    "status": "frozen",
+    "last_transaction": {
+      "date": "2026-06-15",
+      "description": "Online Electronics Store",
+      "amount": -120.00
+    }
+  }
+]

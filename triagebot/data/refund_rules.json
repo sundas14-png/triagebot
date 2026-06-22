@@ -1,0 +1,19 @@
+{
+  "auto_eligible_threshold": 50.00,
+  "currency": "USD",
+  "rules": [
+    {
+      "id": "rule-refund-auto",
+      "description": "Refunds strictly under $50 are auto-eligible and may be approved automatically.",
+      "condition": "amount < 50.00",
+      "action": "auto_approve"
+    },
+    {
+      "id": "rule-refund-escalate",
+      "description": "Refunds of $50 or more (over-cap) must NEVER be auto-executed. They must be escalated to a human specialist.",
+      "condition": "amount >= 50.00",
+      "action": "escalate"
+    }
+  ],
+  "notes": "The agent must never auto-execute an over-cap refund. Money-moving requests at or above the threshold always escalate to a human."
+}
