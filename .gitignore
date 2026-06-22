@@ -1,0 +1,28 @@
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+env/
+
+# Tooling / OS
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+.DS_Store
+*.log
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Runtime artifacts
+tickets.jsonl
